@@ -29,7 +29,7 @@
   _Send me email with your questions._
 
   _Note2:_
-  _Use as an email subject the following pattern: [TUM][FAF Labs][BDC] Name Surname_
+  _Use as an email subject the following pattern: [TUM][FAF Labs][APA] Name Surname_
 
 ### Technical Prerequisites:
 
