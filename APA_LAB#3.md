@@ -3,13 +3,12 @@
 ## Greedy Algorithm
 
 ### Prerequisites:
-  - IDEs: Command Line Interface (CLI) | CLI Editors - nano, vim, emacs
   - The analysis and implementation of the greedy algorithms
   - Time: 4-8 hours
 
 ### Objectives:
   - The study of the greedy technique 
-  - 
+  - Analysis and implimentation of the greedy algorithms.
 
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
@@ -17,12 +16,12 @@
   
 ### Laboratory Requirements:
 
-  - The study of technical design of greedy algorithms. [Theoretical notes](https://github.com/BestMujik/APA_labs/blob/master/L3_apa.doc)
+  - The study of technical design of greedy algorithms. [Theoretical notes] (https://github.com/BestMujik/APA_labs/blob/master/SubmissionProcess.md)
   - Implimentation of the programming algorithms Kruskal and Prim. 
   - Empirical analysis of the algorithms Kruskal and Prim. 
   - Comparasion of the the algorithms Kruskal and Prim. 
   - Answer to the theoretical questions.
-  - Report.
+  - Report ([template](https://github.com/BestMujik/BDC_labs/tree/master/TEX%20template))
 
 ### References:
 
