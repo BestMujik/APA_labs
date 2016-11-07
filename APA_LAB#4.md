@@ -5,7 +5,7 @@
 ### Prerequisites:
   - The analysis and implementation of the dynamic programming algorithms
   - Comparacion of the greedy algorithms with dynamic programming algorithms
-  - Time: 4-8 hours
+  - Time: 2-4 hours
 
 ### Objectives:
   - The study of the dynamic programming technique 
