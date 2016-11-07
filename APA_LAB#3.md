@@ -16,7 +16,7 @@
   
 ### Laboratory Requirements:
 
-  - The study of technical design of greedy algorithms. [Theoretical notes] (https://github.com/BestMujik/APA_labs/blob/master/SubmissionProcess.md)
+  - The study of technical design of greedy algorithms. [Theoretical notes] (https://github.com/BestMujik/APA_labs/blob/master/L3_apa.doc)
   - Implimentation of the programming algorithms Kruskal and Prim. 
   - Empirical analysis of the algorithms Kruskal and Prim. 
   - Comparasion of the the algorithms Kruskal and Prim. 
