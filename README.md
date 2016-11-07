@@ -10,6 +10,11 @@
   - The theoretical analysis of the algorithms
   - Determining temporal and asymptotic complexity of algorithms
   
+### [Lab 2](https://github.com/BestMujik/APA_labs/blob/master/APA_LAB%231.md)
+**The divide et impera tehnique**
+  - The study of the divide et impera technique 
+  - Analysis and implimentation of the divide et impera algorithms.
+  
 ### [Lab 3](https://github.com/BestMujik/BDC_labs/blob/master/BDC_LAB%233.md)
 **Greedy Algorithm**
   - The study of the greedy technique 
