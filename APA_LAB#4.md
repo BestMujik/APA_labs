@@ -17,7 +17,7 @@
   
 ### Laboratory Requirements:
 
-  - The study of technical design of dynamic programming algorithms. [Theoretical notes] (https://github.com/BestMujik/APA_labs/blob/master/SubmissionProcess.md)
+  - The study of technical design of dynamic programming algorithms. [Theoretical notes] (https://github.com/BestMujik/APA_labs/blob/master/APA_LAB%234.md)
   - Implimentation of the programming algorithms presented in theoretical notes. 
   - Empirical analysis of the dynamic method for a sparse and dense graph.
   - Comparasion of the the dynamic algorithms and greedy ones.
