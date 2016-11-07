@@ -1,43 +1,32 @@
-## APA Laboratory Work #1 
+## Programming and Analysis of Algorithms LAB #1
 
-## Setting environment
+## Algorithm Analysis. Time complexity of the algorithms. 
 
 ### Prerequisites:
-
+  - The time analysis of the algorithms
+  - Time: 2-4 hours
 
 ### Objectives:
- 
+  - The empirical analysis of the algorithms
+  - The theoretical analysis of the algorithms
+  - Determining temporal and asymptotic complexity of algorithms
 
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
-
-  1. During laboratory work should be completed 30% of requirements in order to get high mark (9-10)
-  2. You must elaborate a Report which will contain your work-flow and your conclusions.
-    - Laboratory work paper Dead Line is due to next laboratory, and the report must be sent to my email in an appropriate format (such as PDF format).
-    - Laboratory work paper must have all the mentioned execises 
-    - Laboratory work paper must have a conclusion of: 0.5 pages
-  3. You must pass the quiz
-
-  _Note:_
-
-  _More details you'll provide in your report, less questions I'll give to you during presentation of your report._
-
-  _Try to use google us much as you can._
-
-  _If you don't understand google explanation then try to ask for a help from colleagues or friends._
-
-  _Send me email with your questions._
-
-  _Note2:_
-  _Use as an email subject the following pattern: [TUM][FAF Labs][APA] Name Surname_
-
-### Technical Prerequisites:
-
-
+  - [Submission Process](https://github.com/BestMujik/MIDPS-labs/blob/master/Submission%20Process.md)
+  
 ### Laboratory Requirements:
- 
+
+  - The time complexity analysis of the algorithms. [Theoretical notes] (https://github.com/BestMujik/APA_labs/blob/master/L3_apa.doc)
+  - Empirical analysis of the algorithms from 6th section. 
+  - Determine temporal relationship determining the complexity for these algorithms.
+  - Determine the asymptotic complexity of algorithms.
+  - Answer to the theoretical questions.
+  - Report ([template](https://github.com/BestMujik/BDC_labs/tree/master/TEX%20template))
+
 ### References:
 
-
+  - [Time complexity 1]http://www.studytonight.com/data-structures/time-complexity-of-algorithms)
+  - [Time complexity 2]https://www.sitepoint.com/time-complexity-algorithms/)
 
 
