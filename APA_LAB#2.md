@@ -17,7 +17,7 @@
 ### Laboratory Requirements:
 
   - The study of theoretical note of divide et impera algorithms. [Theoretical notes] (https://github.com/BestMujik/APA_labs/blob/master/L3_apa.doc)
-  - Implimentation of the programming algorithms Merge Sort and Quiq Sort described in [theoretical notes] (https://github.com/BestMujik/APA_labs/blob/master/L3_apa.doc). 
+  - Implimentation of the programming algorithms Merge Sort and Quiq Sort described in [theoretical notes]. Compare the algorithms based on worst case, average and best scenaio. Present the graph for all the cases. (https://github.com/BestMujik/APA_labs/blob/master/L3_apa.doc). 
   - Pseudo code of the Strassen algorithm.
   - Answer to the theoretical questions.
   - Report ([template](https://github.com/BestMujik/BDC_labs/tree/master/TEX%20template))
